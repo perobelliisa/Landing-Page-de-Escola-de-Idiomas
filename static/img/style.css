@@ -1,0 +1,308 @@
+ @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.logo{
+    background-color: #1E3A8A;
+
+}
+.home{
+    position: absolute;
+    left: 250px;
+    margin-top: -60px;
+    color: rgb(252, 252, 252);
+}
+
+.cursos{
+    position: absolute;
+    left: 450px;
+    margin-top: -60px;
+    color: rgb(252, 252, 252);
+}
+
+.depoimentos{
+    position: absolute;
+    left: 650px;
+    margin-top: -60px;
+    color: rgb(252, 252, 252);
+}
+
+.blog{
+    position: absolute;
+    left: 850px;
+    margin-top: -60px;
+    color: rgb(252, 252, 252);
+}
+
+.contato{
+    position: absolute;
+    left: 1050px;
+    margin-top: -60px;
+    color: rgb(252, 252, 252);
+}
+
+.num{
+    background-color: #c7d5ff;
+    height: 400px;
+}
+
+.h31{
+    position: absolute;
+    top: 250px;
+    left: 90px;
+    font-size: 22px;
+    font-family: "Roboto";
+}
+
+.aluno{
+    position: absolute;
+    left: 500px;
+    margin-top: 25px;
+}
+
+.botao1{
+    position:absolute;
+    left: 1200px;
+    margin-top: 170px;
+    background-color: #FB923C;
+    font-size: 22px;
+    padding: 15px;
+    font-style: italic;
+}
+
+
+.nois{
+    background-color: #F3F4F6;
+    height: 550px;
+}
+
+.h32{
+    position: absolute;
+    top: 550px;
+    left: 90px;
+    font-size: 22px;
+    font-family: "Roboto";
+}
+
+
+.sala{
+    position: absolute;
+    left: 500px;
+    margin-top: 100px;
+}
+
+.text1{
+    position: absolute;
+    top: 920px;
+    left: 530px;
+    font-size: 18px;
+    font-family: "Roboto";
+}
+
+.nes{
+    background-color: rgb(255, 255, 255);
+    height:300px;
+}
+
+.h33{
+    position: absolute;
+    top: 1120px;
+    left: 90px;
+    font-size: 22px;
+    font-family: "Roboto";
+}
+
+.band1{
+    position: absolute;
+    left: 400px;
+    margin-top: 100px;
+    box-shadow: 100px;
+}
+
+.band2{
+    position: absolute;
+    left: 600px;
+    margin-top: 100px;
+}
+
+.band3{
+    position: absolute;
+    left: 800px;
+    margin-top: 100px;
+}
+
+.ing{
+    position: absolute;
+    left: 425px;
+    margin-top: 190px;    
+}
+
+.esp{
+    position: absolute;
+    left: 607px;
+    margin-top: 190px;    
+}
+
+.fran{
+    position: absolute;
+    left: 805px;
+    margin-top: 190px;    
+}
+
+
+.natro{
+    background-color: #F3F4F6;
+    height: 550px;
+}
+
+.botao2{
+    position:absolute;
+    left: 1200px;
+    margin-top: 140px;
+    background-color: #FB923C;
+    font-size: 22px;
+    padding: 15px;
+    font-style: italic;
+}
+
+.h34{
+    position: absolute;
+    top: 1400px;
+    left: 90px;
+    font-size: 22px;
+    font-family: "Roboto";
+}
+
+.ana{
+    position: absolute;
+    left: 250px;
+    top: 1550px;
+    background-color: #DAE3FF;
+    padding: 25px;
+}
+
+.carlos{
+    position: absolute;
+    left: 720px;
+    top: 1550px;
+    background-color: #DAE3FF;
+    padding: 25px;
+}
+
+.botao3{
+    position:absolute;
+    left: 1200px;
+    margin-top: 250px;
+    background-color: #FB923C;
+    font-size: 22px;
+    padding: 15px;
+    font-style: italic;
+}
+
+.blog1{
+    background-color: #ffffff;
+    height: 550px;    
+}
+
+.h35{
+    position: absolute;
+    top: 1950px;
+    left: 90px;
+    font-size: 22px;
+    font-family: "Roboto";
+}
+
+.img2{
+    position: absolute;
+    padding: 20px;
+    padding-bottom: 45px;
+    background-color: #FB923C;
+    left: 750px;
+    margin-top: 65px;
+}
+
+.lege{
+    position: absolute;
+    left: 810px;
+    margin-top: 320px;    
+    font-style: italic;
+}
+
+.ctt1{
+    background-color: #F3F4F6;
+    height: 380px;    
+}
+
+.h36{
+    position: absolute;
+    top: 2550px;
+    left: 90px;
+    font-size: 22px;
+    font-family: "Roboto";   
+}
+
+.wpp{
+    position: absolute;
+    left: 90px;
+    margin-top: 200px;    
+}
+
+.insta{
+    position: absolute;
+    left: 600px;
+    margin-top: 200px;    
+}
+
+.wpp1{
+    position: absolute;
+    left: 210px;
+    margin-top: 240px;    
+}
+
+.insta1{
+    position: absolute;
+    left: 720px;
+    margin-top: 250px;    
+}
+
+.logo{
+    background-color: #1E3A8A;
+
+}
+.home{
+    position: absolute;
+    left: 250px;
+    margin-top: -60px;
+    color: rgb(252, 252, 252);
+}
+
+.cursos{
+    position: absolute;
+    left: 450px;
+    margin-top: -60px;
+    color: rgb(252, 252, 252);
+}
+
+.depoimentos{
+    position: absolute;
+    left: 650px;
+    margin-top: -60px;
+    color: rgb(252, 252, 252);
+}
+
+.blog{
+    position: absolute;
+    left: 850px;
+    margin-top: -60px;
+    color: rgb(252, 252, 252);
+}
+
+.contato{
+    position: absolute;
+    left: 1050px;
+    margin-top: -60px;
+    color: rgb(252, 252, 252);
+}
